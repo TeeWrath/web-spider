@@ -1,0 +1,1 @@
+A practice web scrapper built using scrapy.
